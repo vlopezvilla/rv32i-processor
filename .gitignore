@@ -1,0 +1,4 @@
+sim/*
+!sim/.gitignore
+*.vvp
+*_sim
